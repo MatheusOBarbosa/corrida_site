@@ -1,0 +1,6 @@
+{
+  "name": "Circuito SpeedNight - Portal Oficial de Corridas de Rua",
+  "description": "Portal oficial do Circuito SpeedNight: inscrições em lotes, kits de atletas, altimetria interativa dos percursos de 5K, 10K e 21K, cronograma de retirada e resultados pós-prova.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
